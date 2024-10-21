@@ -1,4 +1,4 @@
-**Comparing the Quality of Fingerprint Images by Two Different Sensors**
+# **Comparing the Quality of Fingerprint Images by Two Different Sensors**
 
 **Author:** Dhanashree Nangre (2544403)
 
